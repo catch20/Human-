@@ -8,9 +8,7 @@ Contents  [hide]
 2.2	Rise of Homo sapiens
 2.3	Transition to civilization
 3	Habitat and population
-4	Biology
-4.1	Anatomy and physiology
-4.2	Genetics
+
 4.3	Life cycle
 4.4	Diet
 4.5	Biological variation
