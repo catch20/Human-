@@ -18,19 +18,19 @@ Contents  [hide]
 5	Psychology
 5.1	Sleep and dreaming
 5.2	Consciousness and thought
-5.3	Motivation and emotion
+	Motivation and emotion
 5.4	Sexuality and love
 6	Behavior
-6.1	Language
+	Language
 6.2	Gender roles
 6.3	Kinship
-6.4	Ethnicity
+	Ethnicity
 6.5	Society, government, and politics
 6.6	Trade and economics
 6.7	War
 6.8	Material culture and technology
 6.8.1	Body culture
-6.9	Religion and spirituality
+	Religion and spirituality
 6.10	Philosophy and self-reflection
 6.11	Science
 6.12	Art, music, and literature
